@@ -10,7 +10,7 @@ int main() {
     scanf("%d%d,&a,&b");
     if (a>b)
     {
-        printf("Trur");
+        printf("True");
 
     }
     else
