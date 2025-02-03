@@ -12,7 +12,7 @@ int main() {
      {
         printf("True");
      }
-     if else (a=b){
+     else if (a=b){
         printf("True");
      }
     else{
