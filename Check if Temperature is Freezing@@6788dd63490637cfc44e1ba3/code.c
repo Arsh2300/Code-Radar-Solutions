@@ -4,7 +4,7 @@
 //     return "Welcome to Code Radar!";
 // }
 
-// int main() {
+int main() {
 //     printf("%s", welcome());
 //     return 0;
 // }
@@ -19,4 +19,6 @@ int a;
     }
 
 
+
     return 0;
+    }
