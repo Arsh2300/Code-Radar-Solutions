@@ -8,8 +8,9 @@ int main() {
     int a;
     int b;
     int sum;
+   
+    scanf("%d%d",&a&b);
     sum=a+b;
-    scanf("%d%d,&a&b");
-    printf("Sum:%d%d",sum);
+    printf("Sum: %d",sum);
     return 0;
 }
