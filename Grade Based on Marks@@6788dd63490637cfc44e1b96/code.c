@@ -3,7 +3,7 @@
 
     int main() {
     int marks;
-    printf(" ",marks);
+    printf("",marks);
     scanf("%d",&marks);
     if(marks>=90){
         printf("A");
