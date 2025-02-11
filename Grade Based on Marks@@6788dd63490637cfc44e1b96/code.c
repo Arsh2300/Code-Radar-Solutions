@@ -1,7 +1,7 @@
 // Your code here...
 #include <stdio.h>
 
-int main() {
+    int main() {
     int marks;
     printf(" ",marks);
     scanf("%d",&marks);
