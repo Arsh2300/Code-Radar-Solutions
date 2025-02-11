@@ -13,7 +13,7 @@ int main() {
     scanf("%d %d %d",&a,&b,&c);
     
     if (a==b&&b==c){
-        printf("Equilateral")
+        printf("Equilateral");
     }
 
 
