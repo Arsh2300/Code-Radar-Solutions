@@ -7,9 +7,8 @@ int main(){
     if(n1>n2){
         printf("Yes");
     }
-    else if(n2>n1){
-        printf("Yes");
-    }
+    
+    
     else{
         printf("No");
     }
