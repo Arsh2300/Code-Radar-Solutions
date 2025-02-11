@@ -6,7 +6,7 @@ int main() {
     printf(" ",marks);
     scanf("%d",&marks);
     if(marks>=90){
-        printf("A");
+        printf(" A");
     }
     else if(80<=marks){
         printf("B");
